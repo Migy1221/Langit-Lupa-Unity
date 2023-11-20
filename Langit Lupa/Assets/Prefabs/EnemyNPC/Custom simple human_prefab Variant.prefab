@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5893507778703406375
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -247.05524
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 403.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9161084528510361522}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &6180920786338554910 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 5893507778703406375}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &9161084528510361522
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6180920786338554910}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
