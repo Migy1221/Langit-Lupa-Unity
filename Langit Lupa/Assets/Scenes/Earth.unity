@@ -5738,6 +5738,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.029777773, y: 0.073528096, z: 0.025111102}
   m_Center: {x: 0.0000000013969839, y: 0.0000000018626451, z: 0.0000000013969839}
+--- !u!1001 &193925161
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 96
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -463
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 193925163}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &193925162 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 193925161}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &193925163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193925162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &197797059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8147,6 +8327,186 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 730459cb97e3e854db17f00d192852a9, type: 3}
+--- !u!1001 &288099298
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -228.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -117.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 288099300}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &288099299 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 288099298}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &288099300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 288099299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &288500565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10580,6 +10940,186 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 301d4a65c99456449baf2a6e937f1159, type: 3}
   m_PrefabInstance: {fileID: 352192308}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &356278368
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -239
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 54
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (9)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 356278370}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &356278369 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 356278368}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &356278370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 356278369}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &356309679
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15801,6 +16341,186 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 730459cb97e3e854db17f00d192852a9, type: 3}
+--- !u!1001 &505438963
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -833
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 115
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (20)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 505438965}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &505438964 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 505438963}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &505438965
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 505438964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &506109277
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15989,6 +16709,7 @@ GameObject:
   - component: {fileID: 510286950}
   - component: {fileID: 510286949}
   - component: {fileID: 510286948}
+  - component: {fileID: 510286951}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -16063,13 +16784,27 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 510286947}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.34219426, y: -0, z: -0, w: 0.9396292}
-  m_LocalPosition: {x: -210, y: 150, z: 146}
+  m_LocalRotation: {x: 0.115887724, y: 0.019091206, z: 0.0029349783, w: 0.9930745}
+  m_LocalPosition: {x: -235.69, y: 102.35, z: -501.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 40.021, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 13.301, y: 2.273, z: 0.604}
+--- !u!114 &510286951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 510286947}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa986876bc3372b44b9d9e41715de83f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 878213500}
+  smoothTime: 0
 --- !u!1001 &513161510
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17859,6 +18594,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.029777775, y: 0.073528096, z: 0.025111102}
   m_Center: {x: 0.0000000121071935, y: 0.0000000018626451, z: 0.0000000013969839}
+--- !u!1001 &576498836
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -195
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 576498838}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &576498837 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 576498836}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &576498838
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 576498837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &579446387
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18441,6 +19356,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.023812294, y: 0.053797826, z: 0.025111102}
   m_Center: {x: 0.0000000023283064, y: 0, z: -0.000000005122274}
+--- !u!1001 &597281740
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 96
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -203
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 597281742}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &597281741 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 597281740}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &597281742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 597281741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &600627555
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25948,6 +27043,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.023812316, y: 0.053797826, z: 0.025111105}
   m_Center: {x: -0.000000021420421, y: 0, z: -0.0000000051222746}
+--- !u!1001 &809920293
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -400.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -203
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (7)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 809920295}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &809920294 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 809920293}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &809920295
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 809920294}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &810621620
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -28097,6 +29372,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 01a77705bb354e743b4c145759b8160a, type: 3}
   m_PrefabInstance: {fileID: 878170572}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &878213500 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
+  m_PrefabInstance: {fileID: 5811406244173047506}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &881764513
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -29358,6 +30638,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.023812294, y: 0.053797826, z: 0.025111102}
   m_Center: {x: 0.0000000023283064, y: 0, z: -0.000000005122274}
+--- !u!1001 &923623164
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -264
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -203
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 923623166}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &923623165 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 923623164}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &923623166
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 923623165}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &925349927
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33493,6 +34953,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.029777773, y: 0.073528096, z: 0.025111102}
   m_Center: {x: 0.0000000013969839, y: 0.0000000018626451, z: 0.0000000013969839}
+--- !u!1001 &1059641828
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -745
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -463
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1059641830}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1059641829 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1059641828}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1059641830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1059641829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1061108652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33744,6 +35384,186 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9ee87e482aa835248a6905283eb0837e, type: 3}
   m_PrefabInstance: {fileID: 1063151116}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1064636738
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -505.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 115
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (13)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1064636740}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1064636739 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1064636738}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1064636740
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1064636739}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1067575743
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -33962,6 +35782,186 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 730459cb97e3e854db17f00d192852a9, type: 3}
+--- !u!1001 &1073116771
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -291.9
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (12)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1073116773}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1073116772 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1073116771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1073116773
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1073116772}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1074435579
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -34716,6 +36716,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.029777793, y: 0.07361506, z: 0.025798187}
   m_Center: {x: -9.313226e-10, y: 0.0000000018626451, z: 9.313226e-10}
+--- !u!1001 &1094982100
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -174.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -203
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (6)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1094982102}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1094982101 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1094982100}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1094982102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1094982101}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1095491094
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -35305,6 +37485,186 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.023812294, y: 0.053797826, z: 0.025111102}
   m_Center: {x: 0.0000000023283064, y: 0, z: -0.000000005122274}
+--- !u!1001 &1104817971
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -682
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 115
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (14)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1104817973}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1104817972 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1104817971}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1104817973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1104817972}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1107250709
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -36662,6 +39022,186 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 01a77705bb354e743b4c145759b8160a, type: 3}
   m_PrefabInstance: {fileID: 1144671846}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1150948178
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 14.69549
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -57.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 71.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -203
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7187544
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.69526404
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -88.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 6535966611668304912, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9113561252080322206, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      propertyPath: m_Name
+      value: Custom simple human_prefab (8)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1150948180}
+  m_SourcePrefab: {fileID: 100100000, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+--- !u!1 &1150948179 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 292444445324316985, guid: d6112008cba14c147b799fa5f0944f3d, type: 3}
+  m_PrefabInstance: {fileID: 1150948178}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1150948180
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1150948179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5463dada0132a49b85f235160edf3e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skin_head: {fileID: 0}
+  skin_body: {fileID: 0}
+  cigarette: {fileID: 0}
+  crowbar: {fileID: 0}
+  fireaxe: {fileID: 0}
+  glock: {fileID: 0}
+  phone: {fileID: 0}
+  beard_a: {fileID: 0}
+  beard_b: {fileID: 0}
+  beard_c: {fileID: 0}
+  beard_d: {fileID: 0}
+  hair_a: {fileID: 0}
+  hair_b: {fileID: 0}
+  hair_c: {fileID: 0}
+  hair_d: {fileID: 0}
+  hair_e: {fileID: 0}
+  cap: {fileID: 0}
+  cap2: {fileID: 0}
+  cap3: {fileID: 0}
+  chain1: {fileID: 0}
+  chain2: {fileID: 0}
+  chain3: {fileID: 0}
+  banker_suit: {fileID: 0}
+  cock_suit: {fileID: 0}
+  cock_suit_hat: {fileID: 0}
+  farmer_suit: {fileID: 0}
+  farmer_suit_hat: {fileID: 0}
+  fireman_suit: {fileID: 0}
+  fireman_suit_hat: {fileID: 0}
+  mechanic_suit: {fileID: 0}
+  mechanic_suit_hat: {fileID: 0}
+  nurse_suit: {fileID: 0}
+  police_suit: {fileID: 0}
+  police_suit_hat: {fileID: 0}
+  roober_suit: {fileID: 0}
+  roober_suit_hat: {fileID: 0}
+  security_guard_suit: {fileID: 0}
+  security_guard_suit_hat: {fileID: 0}
+  seller_suit: {fileID: 0}
+  worker_suit: {fileID: 0}
+  worker_suit_hat: {fileID: 0}
+  glasses: {fileID: 0}
+  jacket: {fileID: 0}
+  pullover: {fileID: 0}
+  scarf: {fileID: 0}
+  shirt: {fileID: 0}
+  shoes1: {fileID: 0}
+  shoes2: {fileID: 0}
+  shoes3: {fileID: 0}
+  shortpants: {fileID: 0}
+  t_shirt: {fileID: 0}
+  tank_top: {fileID: 0}
+  trousers: {fileID: 0}
+  skin_textures: []
+  beard_textures: []
+  hair_a_textures: []
+  hair_b_textures: []
+  hair_c_textures: []
+  hair_d_textures: []
+  hair_e_textures: []
+  cap_textures: []
+  cap2_textures: []
+  cap3_textures: []
+  chain1_textures: []
+  chain2_textures: []
+  chain3_textures: []
+  banker_suit_texture: []
+  cock_suit_texture: {fileID: 0}
+  farmer_suit_texture: {fileID: 0}
+  fireman_suit_texture: {fileID: 0}
+  mechanic_suit_texture: {fileID: 0}
+  nurse_suit_texture: {fileID: 0}
+  police_suit_texture: {fileID: 0}
+  roober_suit_texture: {fileID: 0}
+  security_guard_suit_texture: {fileID: 0}
+  seller_suit_texture: {fileID: 0}
+  worker_suit_texture: {fileID: 0}
+  glasses_texture: []
+  jacket_textures: []
+  pullover_textures: []
+  scarf_textures: []
+  shirt_textures: []
+  shoes1_textures: []
+  shoes2_textures: []
+  shoes3_textures: []
+  shortpants_textures: []
+  t_shirt_textures: []
+  tank_top_textures: []
+  trousers_textures: []
+  ani: {fileID: 0}
+  show_run: 0
 --- !u!1001 &1152819245
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48733,7 +51273,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 827986236589453623, guid: bdfc2a261b1113849a8df054a7660ae3, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 933.07
+      value: 919.4
       objectReference: {fileID: 0}
     - target: {fileID: 827986236589453623, guid: bdfc2a261b1113849a8df054a7660ae3, type: 3}
       propertyPath: m_LocalRotation.w
@@ -48765,7 +51305,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3436296771961959353, guid: bdfc2a261b1113849a8df054a7660ae3, type: 3}
       propertyPath: m_Name
-      value: Custom simple human_prefab Variant (4)
+      value: Simp Boss
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -65979,13 +68519,17 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1311423593455719371, guid: f339a53462beae243975c351bc030d62, type: 3}
+      propertyPath: m_Constraints
+      value: 112
+      objectReference: {fileID: 0}
     - target: {fileID: 1350023189630222992, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_Name
       value: SK-Swordsman_Base_mesh
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -249.54
+      value: -220.1
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalPosition.y
@@ -65993,23 +68537,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 233
+      value: -468.47977
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9998886
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: 0.014926711
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -66017,11 +68561,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: 1.711
       objectReference: {fileID: 0}
     - target: {fileID: 1350023189630223004, guid: f339a53462beae243975c351bc030d62, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1350023189630223007, guid: f339a53462beae243975c351bc030d62, type: 3}
+      propertyPath: m_Controller
+      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66032,7 +68580,6 @@ PrefabInstance:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
-  - {fileID: 510286950}
   - {fileID: 73420387}
   - {fileID: 835964583}
   - {fileID: 1469904777}
@@ -66041,8 +68588,8 @@ SceneRoots:
   - {fileID: 184008372}
   - {fileID: 779461122}
   - {fileID: 1705370342}
-  - {fileID: 1461219135}
   - {fileID: 1142687559}
+  - {fileID: 1461219135}
   - {fileID: 1424228119}
   - {fileID: 1657411762}
   - {fileID: 1269503884}
@@ -66092,9 +68639,24 @@ SceneRoots:
   - {fileID: 977910118}
   - {fileID: 1632765965}
   - {fileID: 1478247611}
+  - {fileID: 576498836}
+  - {fileID: 1073116771}
+  - {fileID: 1064636738}
+  - {fileID: 1104817971}
+  - {fileID: 505438963}
+  - {fileID: 1059641828}
+  - {fileID: 193925161}
+  - {fileID: 597281740}
+  - {fileID: 923623164}
+  - {fileID: 1094982100}
+  - {fileID: 809920293}
+  - {fileID: 1150948178}
+  - {fileID: 356278368}
+  - {fileID: 288099298}
   - {fileID: 1637636729}
   - {fileID: 105591951}
   - {fileID: 1518909895}
   - {fileID: 958673475}
   - {fileID: 1569146609}
+  - {fileID: 510286950}
   - {fileID: 5811406244173047506}
