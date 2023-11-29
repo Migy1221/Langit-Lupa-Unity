@@ -4,7 +4,25 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Hell.unity
+    guid: ba00f1de958564743b4803462969208b
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 022b823e038f7934894714742799d2b5
+  - enabled: 1
+    path: Assets/Scenes/Heaven.unity
+    guid: 065c52b10d14cc943b33a887258da88f
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: f26e467ab06efd44e807d833b49132ab
+  - enabled: 1
+    path: Assets/Scenes/How To Play.unity
+    guid: a19ccf254af73814fb1cac52d18ffb63
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 83cb8854ce28db74e802f82ffcfd6423, type: 2}
     com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 524d4ae599e033041b5f65c338b696f0, type: 2}

@@ -23,7 +23,8 @@ public class AnimationAndMovementController : MonoBehaviour
     bool isRunPressed;
 
     float rotationFactorPerFrame = 15.0f;
-    float runMultiplier = 3.0f;
+    float runMultiplier = 80.0f;
+    float walkMultiplier = 40.0f;
     int zero = 0;
 
     float gravity = -9.8f;
@@ -144,8 +145,8 @@ public class AnimationAndMovementController : MonoBehaviour
     void onMovementInput (InputAction.CallbackContext context)
     {
         currentMovementInput = context.ReadValue<Vector2>();
-        currentMovement.x = currentMovementInput.x;
-        currentMovement.z = currentMovementInput.y;
+        currentMovement.x = currentMovementInput.x  * walkMultiplier;
+        currentMovement.z = currentMovementInput.y * walkMultiplier;
         currentRunMovement.x = currentMovementInput.x * runMultiplier;
         currentRunMovement.z = currentMovementInput.y * runMultiplier;
         isMovementPressed = currentMovementInput.x != zero || currentMovementInput.y != zero;
