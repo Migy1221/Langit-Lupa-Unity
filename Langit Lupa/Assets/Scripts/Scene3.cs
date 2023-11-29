@@ -6,6 +6,6 @@ public class Scene3 : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(4);
     }
 }
